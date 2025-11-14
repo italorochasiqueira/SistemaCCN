@@ -1,0 +1,3 @@
+Comando para montar o executável 
+
+pyinstaller --onefile --noconsole main.py --add-data "views;views" --add-data "models;models" --add-data "images;images" --add-data "drivers;drivers" --add-data "docs;docs" --add-data "controls;controls"

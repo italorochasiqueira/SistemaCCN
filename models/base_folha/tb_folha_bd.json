@@ -1,0 +1,1343 @@
+[
+    {
+        "tipo":"PROVENTO",
+        "cod_rubrica":"1910",
+        "descricao_rubrica":"SUPL AUXILIO DOENCA ACIDEN",
+        "valor":945.86,
+        "competencia":"JULHO\/2025",
+        "tipo_folha":null,
+        "arquivo":"RESUMO AUXÍLIO-DOENÇA PBD - ACID 072025.pdf"
+    },
+    {
+        "tipo":"DESCONTO",
+        "cod_rubrica":"7101",
+        "descricao_rubrica":"CONTRIBUICAO EXTRA SAD",
+        "valor":219.53,
+        "competencia":"JULHO\/2025",
+        "tipo_folha":null,
+        "arquivo":"RESUMO AUXÍLIO-DOENÇA PBD - ACID 072025.pdf"
+    },
+    {
+        "tipo":"PROVENTO",
+        "cod_rubrica":"1310",
+        "descricao_rubrica":"SUPL AUXILIO DOENCA PREV",
+        "valor":5256.03,
+        "competencia":"JULHO\/2025",
+        "tipo_folha":null,
+        "arquivo":"RESUMO AUXÍLIO-DOENÇA PBD - PREV 072025.pdf"
+    },
+    {
+        "tipo":"PROVENTO",
+        "cod_rubrica":"2310",
+        "descricao_rubrica":"CORR MONET SAD PREV",
+        "valor":107.41,
+        "competencia":"JULHO\/2025",
+        "tipo_folha":null,
+        "arquivo":"RESUMO AUXÍLIO-DOENÇA PBD - PREV 072025.pdf"
+    },
+    {
+        "tipo":"PROVENTO",
+        "cod_rubrica":"4310",
+        "descricao_rubrica":"ABONO ANUAL SAD PREV",
+        "valor":629.05,
+        "competencia":"JULHO\/2025",
+        "tipo_folha":null,
+        "arquivo":"RESUMO AUXÍLIO-DOENÇA PBD - PREV 072025.pdf"
+    },
+    {
+        "tipo":"PROVENTO",
+        "cod_rubrica":"5310",
+        "descricao_rubrica":"CORR MONET ABO ANUAL SAD PREV",
+        "valor":22.43,
+        "competencia":"JULHO\/2025",
+        "tipo_folha":null,
+        "arquivo":"RESUMO AUXÍLIO-DOENÇA PBD - PREV 072025.pdf"
+    },
+    {
+        "tipo":"PROVENTO",
+        "cod_rubrica":"8100",
+        "descricao_rubrica":"DEV CONTRIBUICAO EXTRA SAD 13 SAL",
+        "valor":392.94,
+        "competencia":"JULHO\/2025",
+        "tipo_folha":null,
+        "arquivo":"RESUMO AUXÍLIO-DOENÇA PBD - PREV 072025.pdf"
+    },
+    {
+        "tipo":"DESCONTO",
+        "cod_rubrica":"4311",
+        "descricao_rubrica":"ABONO ANUAL PAGO SAD PREV",
+        "valor":523.92,
+        "competencia":"JULHO\/2025",
+        "tipo_folha":null,
+        "arquivo":"RESUMO AUXÍLIO-DOENÇA PBD - PREV 072025.pdf"
+    },
+    {
+        "tipo":"DESCONTO",
+        "cod_rubrica":"5311",
+        "descricao_rubrica":"DEV CORR MONET ABO AN SAD PREV",
+        "valor":18.68,
+        "competencia":"JULHO\/2025",
+        "tipo_folha":null,
+        "arquivo":"RESUMO AUXÍLIO-DOENÇA PBD - PREV 072025.pdf"
+    },
+    {
+        "tipo":"DESCONTO",
+        "cod_rubrica":"7101",
+        "descricao_rubrica":"CONTRIBUICAO EXTRA SAD",
+        "valor":1219.9,
+        "competencia":"JULHO\/2025",
+        "tipo_folha":null,
+        "arquivo":"RESUMO AUXÍLIO-DOENÇA PBD - PREV 072025.pdf"
+    },
+    {
+        "tipo":"DESCONTO",
+        "cod_rubrica":"7111",
+        "descricao_rubrica":"CORR MONET CONT EXTRA SAD",
+        "valor":24.93,
+        "competencia":"JULHO\/2025",
+        "tipo_folha":null,
+        "arquivo":"RESUMO AUXÍLIO-DOENÇA PBD - PREV 072025.pdf"
+    },
+    {
+        "tipo":"DESCONTO",
+        "cod_rubrica":"8101",
+        "descricao_rubrica":"CONTRIBUICAO EXTRA SAD 13 SAL",
+        "valor":471.78,
+        "competencia":"JULHO\/2025",
+        "tipo_folha":null,
+        "arquivo":"RESUMO AUXÍLIO-DOENÇA PBD - PREV 072025.pdf"
+    },
+    {
+        "tipo":"DESCONTO",
+        "cod_rubrica":"8111",
+        "descricao_rubrica":"CORR MONET CONT EXTRA SAD 13 SAL",
+        "valor":16.82,
+        "competencia":"JULHO\/2025",
+        "tipo_folha":null,
+        "arquivo":"RESUMO AUXÍLIO-DOENÇA PBD - PREV 072025.pdf"
+    },
+    {
+        "tipo":"DESCONTO",
+        "cod_rubrica":"9231",
+        "descricao_rubrica":"EMPRESTIMO SIMPLES",
+        "valor":106.13,
+        "competencia":"JULHO\/2025",
+        "tipo_folha":null,
+        "arquivo":"RESUMO AUXÍLIO-DOENÇA PBD - PREV 072025.pdf"
+    },
+    {
+        "tipo":"DESCONTO",
+        "cod_rubrica":"9271",
+        "descricao_rubrica":"INADIMPLENCIA EMP SIMPLES",
+        "valor":842.92,
+        "competencia":"JULHO\/2025",
+        "tipo_folha":null,
+        "arquivo":"RESUMO AUXÍLIO-DOENÇA PBD - PREV 072025.pdf"
+    },
+    {
+        "tipo":"PROVENTO",
+        "cod_rubrica":"1500",
+        "descricao_rubrica":"AUXILIO FUNERAL",
+        "valor":1412.0,
+        "competencia":"JULHO\/2025",
+        "tipo_folha":"MANUTENCAO",
+        "arquivo":"RESUMO GERAL - AUXÍLIOS PAGAMENTO ÚNICO 072025.pdf"
+    },
+    {
+        "tipo":"PROVENTO",
+        "cod_rubrica":"1630",
+        "descricao_rubrica":"PECULIO POR MORTE",
+        "valor":45001.76,
+        "competencia":"JULHO\/2025",
+        "tipo_folha":"MANUTENCAO",
+        "arquivo":"RESUMO GERAL - PECÚLIO POR MORTE PBD 072025.pdf"
+    },
+    {
+        "tipo":"PROVENTO",
+        "cod_rubrica":"7000",
+        "descricao_rubrica":"DEV CONTRIBUICAO EXTRA ASSISTIDO",
+        "valor":15.92,
+        "competencia":"JULHO\/2025",
+        "tipo_folha":"MANUTENCAO",
+        "arquivo":"RESUMO GERAL - PECÚLIO POR MORTE PBD 072025.pdf"
+    },
+    {
+        "tipo":"PROVENTO",
+        "cod_rubrica":"9340",
+        "descricao_rubrica":"DIF ABONO ANUAL",
+        "valor":542.42,
+        "competencia":"JULHO\/2025",
+        "tipo_folha":"MANUTENCAO",
+        "arquivo":"RESUMO GERAL - PECÚLIO POR MORTE PBD 072025.pdf"
+    },
+    {
+        "tipo":"PROVENTO",
+        "cod_rubrica":"9540",
+        "descricao_rubrica":"DEV CONTRIBUICAO ASSISTIDO",
+        "valor":107.02,
+        "competencia":"JULHO\/2025",
+        "tipo_folha":"MANUTENCAO",
+        "arquivo":"RESUMO GERAL - PECÚLIO POR MORTE PBD 072025.pdf"
+    },
+    {
+        "tipo":"DESCONTO",
+        "cod_rubrica":"8021",
+        "descricao_rubrica":"DIF CONTRIBUICAO EXTRA ASSISTIDO 13 SAL",
+        "valor":107.38,
+        "competencia":"JULHO\/2025",
+        "tipo_folha":"MANUTENCAO",
+        "arquivo":"RESUMO GERAL - PECÚLIO POR MORTE PBD 072025.pdf"
+    },
+    {
+        "tipo":"DESCONTO",
+        "cod_rubrica":"9551",
+        "descricao_rubrica":"SUP APOSEN TEMPO SERV PG MAIOR",
+        "valor":1230.32,
+        "competencia":"JULHO\/2025",
+        "tipo_folha":"MANUTENCAO",
+        "arquivo":"RESUMO GERAL - PECÚLIO POR MORTE PBD 072025.pdf"
+    },
+    {
+        "tipo":"DESCONTO",
+        "cod_rubrica":"9721",
+        "descricao_rubrica":"CONTRIBUICAO ASSISTIDO 13 SALARIO",
+        "valor":47.18,
+        "competencia":"JULHO\/2025",
+        "tipo_folha":"MANUTENCAO",
+        "arquivo":"RESUMO GERAL - PECÚLIO POR MORTE PBD 072025.pdf"
+    },
+    {
+        "tipo":"DESCONTO",
+        "cod_rubrica":"9981",
+        "descricao_rubrica":"DEV. ADIANTAMENTO 40% AB. ANUAL",
+        "valor":330.28,
+        "competencia":"JULHO\/2025",
+        "tipo_folha":"MANUTENCAO",
+        "arquivo":"RESUMO GERAL - PECÚLIO POR MORTE PBD 072025.pdf"
+    },
+    {
+        "tipo":"PROVENTO",
+        "cod_rubrica":"1310",
+        "descricao_rubrica":"SUPL AUXILIO DOENCA PREV",
+        "valor":5256.03,
+        "competencia":"JULHO\/2025",
+        "tipo_folha":"MANUTENCAO",
+        "arquivo":"RESUMO GERAL AUXÍLIO-DOENÇA PBD - 072025.pdf"
+    },
+    {
+        "tipo":"PROVENTO",
+        "cod_rubrica":"1910",
+        "descricao_rubrica":"SUPL AUXILIO DOENCA ACIDEN",
+        "valor":945.86,
+        "competencia":"JULHO\/2025",
+        "tipo_folha":"MANUTENCAO",
+        "arquivo":"RESUMO GERAL AUXÍLIO-DOENÇA PBD - 072025.pdf"
+    },
+    {
+        "tipo":"PROVENTO",
+        "cod_rubrica":"2310",
+        "descricao_rubrica":"CORR MONET SAD PREV",
+        "valor":107.41,
+        "competencia":"JULHO\/2025",
+        "tipo_folha":"MANUTENCAO",
+        "arquivo":"RESUMO GERAL AUXÍLIO-DOENÇA PBD - 072025.pdf"
+    },
+    {
+        "tipo":"PROVENTO",
+        "cod_rubrica":"4310",
+        "descricao_rubrica":"ABONO ANUAL SAD PREV",
+        "valor":629.05,
+        "competencia":"JULHO\/2025",
+        "tipo_folha":"MANUTENCAO",
+        "arquivo":"RESUMO GERAL AUXÍLIO-DOENÇA PBD - 072025.pdf"
+    },
+    {
+        "tipo":"PROVENTO",
+        "cod_rubrica":"5310",
+        "descricao_rubrica":"CORR MONET ABO ANUAL SAD PREV",
+        "valor":22.43,
+        "competencia":"JULHO\/2025",
+        "tipo_folha":"MANUTENCAO",
+        "arquivo":"RESUMO GERAL AUXÍLIO-DOENÇA PBD - 072025.pdf"
+    },
+    {
+        "tipo":"PROVENTO",
+        "cod_rubrica":"8100",
+        "descricao_rubrica":"DEV CONTRIBUICAO EXTRA SAD 13 SAL",
+        "valor":392.94,
+        "competencia":"JULHO\/2025",
+        "tipo_folha":"MANUTENCAO",
+        "arquivo":"RESUMO GERAL AUXÍLIO-DOENÇA PBD - 072025.pdf"
+    },
+    {
+        "tipo":"DESCONTO",
+        "cod_rubrica":"4311",
+        "descricao_rubrica":"ABONO ANUAL PAGO SAD PREV",
+        "valor":523.92,
+        "competencia":"JULHO\/2025",
+        "tipo_folha":"MANUTENCAO",
+        "arquivo":"RESUMO GERAL AUXÍLIO-DOENÇA PBD - 072025.pdf"
+    },
+    {
+        "tipo":"DESCONTO",
+        "cod_rubrica":"5311",
+        "descricao_rubrica":"DEV CORR MONET ABO AN SAD PREV",
+        "valor":18.68,
+        "competencia":"JULHO\/2025",
+        "tipo_folha":"MANUTENCAO",
+        "arquivo":"RESUMO GERAL AUXÍLIO-DOENÇA PBD - 072025.pdf"
+    },
+    {
+        "tipo":"DESCONTO",
+        "cod_rubrica":"7101",
+        "descricao_rubrica":"CONTRIBUICAO EXTRA SAD",
+        "valor":1439.43,
+        "competencia":"JULHO\/2025",
+        "tipo_folha":"MANUTENCAO",
+        "arquivo":"RESUMO GERAL AUXÍLIO-DOENÇA PBD - 072025.pdf"
+    },
+    {
+        "tipo":"DESCONTO",
+        "cod_rubrica":"7111",
+        "descricao_rubrica":"CORR MONET CONT EXTRA SAD",
+        "valor":24.93,
+        "competencia":"JULHO\/2025",
+        "tipo_folha":"MANUTENCAO",
+        "arquivo":"RESUMO GERAL AUXÍLIO-DOENÇA PBD - 072025.pdf"
+    },
+    {
+        "tipo":"DESCONTO",
+        "cod_rubrica":"8101",
+        "descricao_rubrica":"CONTRIBUICAO EXTRA SAD 13 SAL",
+        "valor":471.78,
+        "competencia":"JULHO\/2025",
+        "tipo_folha":"MANUTENCAO",
+        "arquivo":"RESUMO GERAL AUXÍLIO-DOENÇA PBD - 072025.pdf"
+    },
+    {
+        "tipo":"DESCONTO",
+        "cod_rubrica":"8111",
+        "descricao_rubrica":"CORR MONET CONT EXTRA SAD 13 SAL",
+        "valor":16.82,
+        "competencia":"JULHO\/2025",
+        "tipo_folha":"MANUTENCAO",
+        "arquivo":"RESUMO GERAL AUXÍLIO-DOENÇA PBD - 072025.pdf"
+    },
+    {
+        "tipo":"DESCONTO",
+        "cod_rubrica":"9231",
+        "descricao_rubrica":"EMPRESTIMO SIMPLES",
+        "valor":106.13,
+        "competencia":"JULHO\/2025",
+        "tipo_folha":"MANUTENCAO",
+        "arquivo":"RESUMO GERAL AUXÍLIO-DOENÇA PBD - 072025.pdf"
+    },
+    {
+        "tipo":"DESCONTO",
+        "cod_rubrica":"9271",
+        "descricao_rubrica":"INADIMPLENCIA EMP SIMPLES",
+        "valor":842.92,
+        "competencia":"JULHO\/2025",
+        "tipo_folha":"MANUTENCAO",
+        "arquivo":"RESUMO GERAL AUXÍLIO-DOENÇA PBD - 072025.pdf"
+    },
+    {
+        "tipo":"PROVENTO",
+        "cod_rubrica":"1460",
+        "descricao_rubrica":"SUPL APOSENTADORIA ESPECIAL",
+        "valor":10053.11,
+        "competencia":"JULHO\/2025",
+        "tipo_folha":"MANUTENCAO",
+        "arquivo":"RESUMO_APO_ESPECIAL.pdf"
+    },
+    {
+        "tipo":"DESCONTO",
+        "cod_rubrica":"7001",
+        "descricao_rubrica":"CONTRIBUICAO EXTRA ASSISTIDO",
+        "valor":2333.32,
+        "competencia":"JULHO\/2025",
+        "tipo_folha":"MANUTENCAO",
+        "arquivo":"RESUMO_APO_ESPECIAL.pdf"
+    },
+    {
+        "tipo":"DESCONTO",
+        "cod_rubrica":"9091",
+        "descricao_rubrica":"CONTRIBUIÇÃO DE ASSISTIDO",
+        "valor":707.77,
+        "competencia":"JULHO\/2025",
+        "tipo_folha":"MANUTENCAO",
+        "arquivo":"RESUMO_APO_ESPECIAL.pdf"
+    },
+    {
+        "tipo":"DESCONTO",
+        "cod_rubrica":"9221",
+        "descricao_rubrica":"IMPOSTO DE RENDA NA FONTE",
+        "valor":252.75,
+        "competencia":"JULHO\/2025",
+        "tipo_folha":"MANUTENCAO",
+        "arquivo":"RESUMO_APO_ESPECIAL.pdf"
+    },
+    {
+        "tipo":"PROVENTO",
+        "cod_rubrica":"1860",
+        "descricao_rubrica":"SUPL APOSENT ESPECIAL PAA",
+        "valor":6107.65,
+        "competencia":"JULHO\/2025",
+        "tipo_folha":"MANUTENCAO",
+        "arquivo":"RESUMO_APO_ESPECIAL_PAA.pdf"
+    },
+    {
+        "tipo":"PROVENTO",
+        "cod_rubrica":"9460",
+        "descricao_rubrica":"PAA\/ECT",
+        "valor":1640.25,
+        "competencia":"JULHO\/2025",
+        "tipo_folha":"MANUTENCAO",
+        "arquivo":"RESUMO_APO_ESPECIAL_PAA.pdf"
+    },
+    {
+        "tipo":"DESCONTO",
+        "cod_rubrica":"7001",
+        "descricao_rubrica":"CONTRIBUICAO EXTRA ASSISTIDO",
+        "valor":1417.58,
+        "competencia":"JULHO\/2025",
+        "tipo_folha":"MANUTENCAO",
+        "arquivo":"RESUMO_APO_ESPECIAL_PAA.pdf"
+    },
+    {
+        "tipo":"DESCONTO",
+        "cod_rubrica":"9091",
+        "descricao_rubrica":"CONTRIBUIÇÃO DE ASSISTIDO",
+        "valor":531.36,
+        "competencia":"JULHO\/2025",
+        "tipo_folha":"MANUTENCAO",
+        "arquivo":"RESUMO_APO_ESPECIAL_PAA.pdf"
+    },
+    {
+        "tipo":"DESCONTO",
+        "cod_rubrica":"9221",
+        "descricao_rubrica":"IMPOSTO DE RENDA NA FONTE",
+        "valor":552.22,
+        "competencia":"JULHO\/2025",
+        "tipo_folha":"MANUTENCAO",
+        "arquivo":"RESUMO_APO_ESPECIAL_PAA.pdf"
+    },
+    {
+        "tipo":"DESCONTO",
+        "cod_rubrica":"9401",
+        "descricao_rubrica":"ASS. APOS. DOS CORREIOS",
+        "valor":30.0,
+        "competencia":"JULHO\/2025",
+        "tipo_folha":"MANUTENCAO",
+        "arquivo":"RESUMO_APO_ESPECIAL_PAA.pdf"
+    },
+    {
+        "tipo":"DESCONTO",
+        "cod_rubrica":"9501",
+        "descricao_rubrica":"SEG VIDA - MULTIPLO SALARIAL",
+        "valor":282.69,
+        "competencia":"JULHO\/2025",
+        "tipo_folha":"MANUTENCAO",
+        "arquivo":"RESUMO_APO_ESPECIAL_PAA.pdf"
+    },
+    {
+        "tipo":"PROVENTO",
+        "cod_rubrica":"1410",
+        "descricao_rubrica":"SUPL APOSENTADORIA POR IDADE",
+        "valor":59313.91,
+        "competencia":"JULHO\/2025",
+        "tipo_folha":"MANUTENCAO",
+        "arquivo":"RESUMO_APO_IDADE.pdf"
+    },
+    {
+        "tipo":"DESCONTO",
+        "cod_rubrica":"7001",
+        "descricao_rubrica":"CONTRIBUICAO EXTRA ASSISTIDO",
+        "valor":13766.59,
+        "competencia":"JULHO\/2025",
+        "tipo_folha":"MANUTENCAO",
+        "arquivo":"RESUMO_APO_IDADE.pdf"
+    },
+    {
+        "tipo":"DESCONTO",
+        "cod_rubrica":"9091",
+        "descricao_rubrica":"CONTRIBUIÇÃO DE ASSISTIDO",
+        "valor":2562.57,
+        "competencia":"JULHO\/2025",
+        "tipo_folha":"MANUTENCAO",
+        "arquivo":"RESUMO_APO_IDADE.pdf"
+    },
+    {
+        "tipo":"DESCONTO",
+        "cod_rubrica":"9221",
+        "descricao_rubrica":"IMPOSTO DE RENDA NA FONTE",
+        "valor":1913.03,
+        "competencia":"JULHO\/2025",
+        "tipo_folha":"MANUTENCAO",
+        "arquivo":"RESUMO_APO_IDADE.pdf"
+    },
+    {
+        "tipo":"DESCONTO",
+        "cod_rubrica":"9231",
+        "descricao_rubrica":"EMPRESTIMO SIMPLES",
+        "valor":348.59,
+        "competencia":"JULHO\/2025",
+        "tipo_folha":"MANUTENCAO",
+        "arquivo":"RESUMO_APO_IDADE.pdf"
+    },
+    {
+        "tipo":"DESCONTO",
+        "cod_rubrica":"9271",
+        "descricao_rubrica":"INADIMPLENCIA EMP SIMPLES",
+        "valor":15.81,
+        "competencia":"JULHO\/2025",
+        "tipo_folha":"MANUTENCAO",
+        "arquivo":"RESUMO_APO_IDADE.pdf"
+    },
+    {
+        "tipo":"DESCONTO",
+        "cod_rubrica":"9401",
+        "descricao_rubrica":"ASS. APOS. DOS CORREIOS",
+        "valor":120.0,
+        "competencia":"JULHO\/2025",
+        "tipo_folha":"MANUTENCAO",
+        "arquivo":"RESUMO_APO_IDADE.pdf"
+    },
+    {
+        "tipo":"DESCONTO",
+        "cod_rubrica":"9501",
+        "descricao_rubrica":"SEG VIDA - MULTIPLO SALARIAL",
+        "valor":1071.66,
+        "competencia":"JULHO\/2025",
+        "tipo_folha":"MANUTENCAO",
+        "arquivo":"RESUMO_APO_IDADE.pdf"
+    },
+    {
+        "tipo":"PROVENTO",
+        "cod_rubrica":"1810",
+        "descricao_rubrica":"SUPL APOSENTADORIA IDADE PAA",
+        "valor":2751.82,
+        "competencia":"JULHO\/2025",
+        "tipo_folha":"MANUTENCAO",
+        "arquivo":"RESUMO_APO_IDADE_PAA.pdf"
+    },
+    {
+        "tipo":"DESCONTO",
+        "cod_rubrica":"7001",
+        "descricao_rubrica":"CONTRIBUICAO EXTRA ASSISTIDO",
+        "valor":638.68,
+        "competencia":"JULHO\/2025",
+        "tipo_folha":"MANUTENCAO",
+        "arquivo":"RESUMO_APO_IDADE_PAA.pdf"
+    },
+    {
+        "tipo":"DESCONTO",
+        "cod_rubrica":"9091",
+        "descricao_rubrica":"CONTRIBUIÇÃO DE ASSISTIDO",
+        "valor":58.62,
+        "competencia":"JULHO\/2025",
+        "tipo_folha":"MANUTENCAO",
+        "arquivo":"RESUMO_APO_IDADE_PAA.pdf"
+    },
+    {
+        "tipo":"DESCONTO",
+        "cod_rubrica":"9231",
+        "descricao_rubrica":"EMPRESTIMO SIMPLES",
+        "valor":314.2,
+        "competencia":"JULHO\/2025",
+        "tipo_folha":"MANUTENCAO",
+        "arquivo":"RESUMO_APO_IDADE_PAA.pdf"
+    },
+    {
+        "tipo":"DESCONTO",
+        "cod_rubrica":"9401",
+        "descricao_rubrica":"ASS. APOS. DOS CORREIOS",
+        "valor":30.0,
+        "competencia":"JULHO\/2025",
+        "tipo_folha":"MANUTENCAO",
+        "arquivo":"RESUMO_APO_IDADE_PAA.pdf"
+    },
+    {
+        "tipo":"PROVENTO",
+        "cod_rubrica":"1700",
+        "descricao_rubrica":"SUPL APO DECISAO JUDICIAL",
+        "valor":302.85,
+        "competencia":"JULHO\/2025",
+        "tipo_folha":"MANUTENCAO",
+        "arquivo":"RESUMO_APO_INVALIDEZ.pdf"
+    },
+    {
+        "tipo":"PROVENTO",
+        "cod_rubrica":"9930",
+        "descricao_rubrica":"VALE ALIMENTAÇÃO\/ AUXÍLIO CESTA",
+        "valor":14193.1,
+        "competencia":"JULHO\/2025",
+        "tipo_folha":"MANUTENCAO",
+        "arquivo":"RESUMO_APO_INVALIDEZ.pdf"
+    },
+    {
+        "tipo":"DESCONTO",
+        "cod_rubrica":"1061",
+        "descricao_rubrica":"ASSOC. DOS PROFIS. DOS CORREIOS",
+        "valor":1477.76,
+        "competencia":"JULHO\/2025",
+        "tipo_folha":"MANUTENCAO",
+        "arquivo":"RESUMO_APO_INVALIDEZ.pdf"
+    },
+    {
+        "tipo":"DESCONTO",
+        "cod_rubrica":"8001",
+        "descricao_rubrica":"CONTRIBUICAO EXTRA ASSISTIDO 13 SAL",
+        "valor":18.33,
+        "competencia":"JULHO\/2025",
+        "tipo_folha":"MANUTENCAO",
+        "arquivo":"RESUMO_APO_INVALIDEZ.pdf"
+    },
+    {
+        "tipo":"DESCONTO",
+        "cod_rubrica":"8231",
+        "descricao_rubrica":"BD - BPS-APOSENTADORIA INVALIDEZ - DEV",
+        "valor":223.86,
+        "competencia":"JULHO\/2025",
+        "tipo_folha":"MANUTENCAO",
+        "arquivo":"RESUMO_APO_INVALIDEZ.pdf"
+    },
+    {
+        "tipo":"DESCONTO",
+        "cod_rubrica":"9091",
+        "descricao_rubrica":"CONTRIBUIÇÃO DE ASSISTIDO",
+        "valor":73282.63,
+        "competencia":"JULHO\/2025",
+        "tipo_folha":"MANUTENCAO",
+        "arquivo":"RESUMO_APO_INVALIDEZ.pdf"
+    },
+    {
+        "tipo":"DESCONTO",
+        "cod_rubrica":"9201",
+        "descricao_rubrica":"PENSAO ALIMENTICIA",
+        "valor":11467.71,
+        "competencia":"JULHO\/2025",
+        "tipo_folha":"MANUTENCAO",
+        "arquivo":"RESUMO_APO_INVALIDEZ.pdf"
+    },
+    {
+        "tipo":"DESCONTO",
+        "cod_rubrica":"9221",
+        "descricao_rubrica":"IMPOSTO DE RENDA NA FONTE",
+        "valor":23131.12,
+        "competencia":"JULHO\/2025",
+        "tipo_folha":"MANUTENCAO",
+        "arquivo":"RESUMO_APO_INVALIDEZ.pdf"
+    },
+    {
+        "tipo":"DESCONTO",
+        "cod_rubrica":"9271",
+        "descricao_rubrica":"INADIMPLENCIA EMP SIMPLES",
+        "valor":15470.81,
+        "competencia":"JULHO\/2025",
+        "tipo_folha":"MANUTENCAO",
+        "arquivo":"RESUMO_APO_INVALIDEZ.pdf"
+    },
+    {
+        "tipo":"DESCONTO",
+        "cod_rubrica":"9371",
+        "descricao_rubrica":"SUP AUX DOENC PREV PAGO MAIOR",
+        "valor":269.24,
+        "competencia":"JULHO\/2025",
+        "tipo_folha":"MANUTENCAO",
+        "arquivo":"RESUMO_APO_INVALIDEZ.pdf"
+    },
+    {
+        "tipo":"DESCONTO",
+        "cod_rubrica":"9381",
+        "descricao_rubrica":"SUP APOS INVALID PAGA MAIOR",
+        "valor":210.54,
+        "competencia":"JULHO\/2025",
+        "tipo_folha":"MANUTENCAO",
+        "arquivo":"RESUMO_APO_INVALIDEZ.pdf"
+    },
+    {
+        "tipo":"DESCONTO",
+        "cod_rubrica":"9401",
+        "descricao_rubrica":"ASS. APOS. DOS CORREIOS",
+        "valor":1380.0,
+        "competencia":"JULHO\/2025",
+        "tipo_folha":"MANUTENCAO",
+        "arquivo":"RESUMO_APO_INVALIDEZ.pdf"
+    },
+    {
+        "tipo":"DESCONTO",
+        "cod_rubrica":"9501",
+        "descricao_rubrica":"SEG VIDA - MULTIPLO SALARIAL",
+        "valor":40728.32,
+        "competencia":"JULHO\/2025",
+        "tipo_folha":"MANUTENCAO",
+        "arquivo":"RESUMO_APO_INVALIDEZ.pdf"
+    },
+    {
+        "tipo":"DESCONTO",
+        "cod_rubrica":"9504",
+        "descricao_rubrica":"PLANO FUNERAL - MULTIPLO SALARIAL",
+        "valor":42.96,
+        "competencia":"JULHO\/2025",
+        "tipo_folha":"MANUTENCAO",
+        "arquivo":"RESUMO_APO_INVALIDEZ.pdf"
+    },
+    {
+        "tipo":"PROVENTO",
+        "cod_rubrica":"1420",
+        "descricao_rubrica":"SUPL APOSENT TEMPO SERVICO",
+        "valor":4457576.6399999997,
+        "competencia":"JULHO\/2025",
+        "tipo_folha":"MANUTENCAO",
+        "arquivo":"RESUMO_APO_T._SERVICO.pdf"
+    },
+    {
+        "tipo":"PROVENTO",
+        "cod_rubrica":"1700",
+        "descricao_rubrica":"SUPL APO DECISAO JUDICIAL",
+        "valor":5009.62,
+        "competencia":"JULHO\/2025",
+        "tipo_folha":"MANUTENCAO",
+        "arquivo":"RESUMO_APO_T._SERVICO.pdf"
+    },
+    {
+        "tipo":"PROVENTO",
+        "cod_rubrica":"2420",
+        "descricao_rubrica":"CORR MONET APO TEMPO SERVICO",
+        "valor":16.9,
+        "competencia":"JULHO\/2025",
+        "tipo_folha":"MANUTENCAO",
+        "arquivo":"RESUMO_APO_T._SERVICO.pdf"
+    },
+    {
+        "tipo":"PROVENTO",
+        "cod_rubrica":"9700",
+        "descricao_rubrica":"DEV ASSIST MEDICA UNIMED",
+        "valor":988.51,
+        "competencia":"JULHO\/2025",
+        "tipo_folha":"MANUTENCAO",
+        "arquivo":"RESUMO_APO_T._SERVICO.pdf"
+    },
+    {
+        "tipo":"DESCONTO",
+        "cod_rubrica":"1041",
+        "descricao_rubrica":"IRRF APOSENTADORIA RES. EXTERIOR",
+        "valor":3073.07,
+        "competencia":"JULHO\/2025",
+        "tipo_folha":"MANUTENCAO",
+        "arquivo":"RESUMO_APO_T._SERVICO.pdf"
+    },
+    {
+        "tipo":"DESCONTO",
+        "cod_rubrica":"1061",
+        "descricao_rubrica":"ASSOC. DOS PROFIS. DOS CORREIOS",
+        "valor":2960.76,
+        "competencia":"JULHO\/2025",
+        "tipo_folha":"MANUTENCAO",
+        "arquivo":"RESUMO_APO_T._SERVICO.pdf"
+    },
+    {
+        "tipo":"DESCONTO",
+        "cod_rubrica":"7001",
+        "descricao_rubrica":"CONTRIBUICAO EXTRA ASSISTIDO",
+        "valor":1035761.89,
+        "competencia":"JULHO\/2025",
+        "tipo_folha":"MANUTENCAO",
+        "arquivo":"RESUMO_APO_T._SERVICO.pdf"
+    },
+    {
+        "tipo":"DESCONTO",
+        "cod_rubrica":"7011",
+        "descricao_rubrica":"CORR MONET CONT EXTRA ASSISTIDO",
+        "valor":3.92,
+        "competencia":"JULHO\/2025",
+        "tipo_folha":"MANUTENCAO",
+        "arquivo":"RESUMO_APO_T._SERVICO.pdf"
+    },
+    {
+        "tipo":"DESCONTO",
+        "cod_rubrica":"9091",
+        "descricao_rubrica":"CONTRIBUIÇÃO DE ASSISTIDO",
+        "valor":385116.43,
+        "competencia":"JULHO\/2025",
+        "tipo_folha":"MANUTENCAO",
+        "arquivo":"RESUMO_APO_T._SERVICO.pdf"
+    },
+    {
+        "tipo":"DESCONTO",
+        "cod_rubrica":"9141",
+        "descricao_rubrica":"CORR MONET CONT ASSISTIDO",
+        "valor":1.47,
+        "competencia":"JULHO\/2025",
+        "tipo_folha":"MANUTENCAO",
+        "arquivo":"RESUMO_APO_T._SERVICO.pdf"
+    },
+    {
+        "tipo":"DESCONTO",
+        "cod_rubrica":"9201",
+        "descricao_rubrica":"PENSAO ALIMENTICIA",
+        "valor":12686.5,
+        "competencia":"JULHO\/2025",
+        "tipo_folha":"MANUTENCAO",
+        "arquivo":"RESUMO_APO_T._SERVICO.pdf"
+    },
+    {
+        "tipo":"DESCONTO",
+        "cod_rubrica":"9221",
+        "descricao_rubrica":"IMPOSTO DE RENDA NA FONTE",
+        "valor":244250.91,
+        "competencia":"JULHO\/2025",
+        "tipo_folha":"MANUTENCAO",
+        "arquivo":"RESUMO_APO_T._SERVICO.pdf"
+    },
+    {
+        "tipo":"DESCONTO",
+        "cod_rubrica":"9231",
+        "descricao_rubrica":"EMPRESTIMO SIMPLES",
+        "valor":121745.22,
+        "competencia":"JULHO\/2025",
+        "tipo_folha":"MANUTENCAO",
+        "arquivo":"RESUMO_APO_T._SERVICO.pdf"
+    },
+    {
+        "tipo":"DESCONTO",
+        "cod_rubrica":"9271",
+        "descricao_rubrica":"INADIMPLENCIA EMP SIMPLES",
+        "valor":6634.79,
+        "competencia":"JULHO\/2025",
+        "tipo_folha":"MANUTENCAO",
+        "arquivo":"RESUMO_APO_T._SERVICO.pdf"
+    },
+    {
+        "tipo":"DESCONTO",
+        "cod_rubrica":"9401",
+        "descricao_rubrica":"ASS. APOS. DOS CORREIOS",
+        "valor":1740.0,
+        "competencia":"JULHO\/2025",
+        "tipo_folha":"MANUTENCAO",
+        "arquivo":"RESUMO_APO_T._SERVICO.pdf"
+    },
+    {
+        "tipo":"DESCONTO",
+        "cod_rubrica":"9501",
+        "descricao_rubrica":"SEG VIDA - MULTIPLO SALARIAL",
+        "valor":92009.45,
+        "competencia":"JULHO\/2025",
+        "tipo_folha":"MANUTENCAO",
+        "arquivo":"RESUMO_APO_T._SERVICO.pdf"
+    },
+    {
+        "tipo":"DESCONTO",
+        "cod_rubrica":"9901",
+        "descricao_rubrica":"PENHORA JUDICIAL",
+        "valor":3372.56,
+        "competencia":"JULHO\/2025",
+        "tipo_folha":"MANUTENCAO",
+        "arquivo":"RESUMO_APO_T._SERVICO.pdf"
+    },
+    {
+        "tipo":"PROVENTO",
+        "cod_rubrica":"1820",
+        "descricao_rubrica":"SUPL APOSEN TEMPO SERVICO PAA",
+        "valor":407339.17,
+        "competencia":"JULHO\/2025",
+        "tipo_folha":"MANUTENCAO",
+        "arquivo":"RESUMO_APO_T._SERVICO_PAA.pdf"
+    },
+    {
+        "tipo":"PROVENTO",
+        "cod_rubrica":"9030",
+        "descricao_rubrica":"SUPL\/MANUT\/POSTALIS",
+        "valor":8246.67,
+        "competencia":"JULHO\/2025",
+        "tipo_folha":"MANUTENCAO",
+        "arquivo":"RESUMO_APO_T._SERVICO_PAA.pdf"
+    },
+    {
+        "tipo":"PROVENTO",
+        "cod_rubrica":"9210",
+        "descricao_rubrica":"SUPL APOSEN TEMPO SERV DIF",
+        "valor":8.34,
+        "competencia":"JULHO\/2025",
+        "tipo_folha":"MANUTENCAO",
+        "arquivo":"RESUMO_APO_T._SERVICO_PAA.pdf"
+    },
+    {
+        "tipo":"PROVENTO",
+        "cod_rubrica":"9460",
+        "descricao_rubrica":"PAA\/ECT",
+        "valor":118.81,
+        "competencia":"JULHO\/2025",
+        "tipo_folha":"MANUTENCAO",
+        "arquivo":"RESUMO_APO_T._SERVICO_PAA.pdf"
+    },
+    {
+        "tipo":"PROVENTO",
+        "cod_rubrica":"9480",
+        "descricao_rubrica":"DEV CONTRIBUICAO ASSISTIDO 15%",
+        "valor":31.83,
+        "competencia":"JULHO\/2025",
+        "tipo_folha":"MANUTENCAO",
+        "arquivo":"RESUMO_APO_T._SERVICO_PAA.pdf"
+    },
+    {
+        "tipo":"DESCONTO",
+        "cod_rubrica":"1061",
+        "descricao_rubrica":"ASSOC. DOS PROFIS. DOS CORREIOS",
+        "valor":37.6,
+        "competencia":"JULHO\/2025",
+        "tipo_folha":"MANUTENCAO",
+        "arquivo":"RESUMO_APO_T._SERVICO_PAA.pdf"
+    },
+    {
+        "tipo":"DESCONTO",
+        "cod_rubrica":"7001",
+        "descricao_rubrica":"CONTRIBUICAO EXTRA ASSISTIDO",
+        "valor":96456.61,
+        "competencia":"JULHO\/2025",
+        "tipo_folha":"MANUTENCAO",
+        "arquivo":"RESUMO_APO_T._SERVICO_PAA.pdf"
+    },
+    {
+        "tipo":"DESCONTO",
+        "cod_rubrica":"9011",
+        "descricao_rubrica":"DIF CONTRIBUICAO ASSISTIDO 15%",
+        "valor":8.55,
+        "competencia":"JULHO\/2025",
+        "tipo_folha":"MANUTENCAO",
+        "arquivo":"RESUMO_APO_T._SERVICO_PAA.pdf"
+    },
+    {
+        "tipo":"DESCONTO",
+        "cod_rubrica":"9091",
+        "descricao_rubrica":"CONTRIBUIÇÃO DE ASSISTIDO",
+        "valor":36010.6,
+        "competencia":"JULHO\/2025",
+        "tipo_folha":"MANUTENCAO",
+        "arquivo":"RESUMO_APO_T._SERVICO_PAA.pdf"
+    },
+    {
+        "tipo":"DESCONTO",
+        "cod_rubrica":"9221",
+        "descricao_rubrica":"IMPOSTO DE RENDA NA FONTE",
+        "valor":3158.71,
+        "competencia":"JULHO\/2025",
+        "tipo_folha":"MANUTENCAO",
+        "arquivo":"RESUMO_APO_T._SERVICO_PAA.pdf"
+    },
+    {
+        "tipo":"DESCONTO",
+        "cod_rubrica":"9231",
+        "descricao_rubrica":"EMPRESTIMO SIMPLES",
+        "valor":4670.56,
+        "competencia":"JULHO\/2025",
+        "tipo_folha":"MANUTENCAO",
+        "arquivo":"RESUMO_APO_T._SERVICO_PAA.pdf"
+    },
+    {
+        "tipo":"DESCONTO",
+        "cod_rubrica":"9271",
+        "descricao_rubrica":"INADIMPLENCIA EMP SIMPLES",
+        "valor":12.71,
+        "competencia":"JULHO\/2025",
+        "tipo_folha":"MANUTENCAO",
+        "arquivo":"RESUMO_APO_T._SERVICO_PAA.pdf"
+    },
+    {
+        "tipo":"DESCONTO",
+        "cod_rubrica":"9401",
+        "descricao_rubrica":"ASS. APOS. DOS CORREIOS",
+        "valor":2310.0,
+        "competencia":"JULHO\/2025",
+        "tipo_folha":"MANUTENCAO",
+        "arquivo":"RESUMO_APO_T._SERVICO_PAA.pdf"
+    },
+    {
+        "tipo":"DESCONTO",
+        "cod_rubrica":"9441",
+        "descricao_rubrica":"PAA\/ECT PAGO A MAIOR",
+        "valor":178.07,
+        "competencia":"JULHO\/2025",
+        "tipo_folha":"MANUTENCAO",
+        "arquivo":"RESUMO_APO_T._SERVICO_PAA.pdf"
+    },
+    {
+        "tipo":"DESCONTO",
+        "cod_rubrica":"9501",
+        "descricao_rubrica":"SEG VIDA - MULTIPLO SALARIAL",
+        "valor":12988.47,
+        "competencia":"JULHO\/2025",
+        "tipo_folha":"MANUTENCAO",
+        "arquivo":"RESUMO_APO_T._SERVICO_PAA.pdf"
+    },
+    {
+        "tipo":"DESCONTO",
+        "cod_rubrica":"9551",
+        "descricao_rubrica":"SUP APOSEN TEMPO SERV PG MAIOR",
+        "valor":293.43,
+        "competencia":"JULHO\/2025",
+        "tipo_folha":"MANUTENCAO",
+        "arquivo":"RESUMO_APO_T._SERVICO_PAA.pdf"
+    },
+    {
+        "tipo":"PROVENTO",
+        "cod_rubrica":"1810",
+        "descricao_rubrica":"SUPL APOSENTADORIA IDADE PAA",
+        "valor":2751.82,
+        "competencia":"JULHO\/2025",
+        "tipo_folha":"MANUTENCAO",
+        "arquivo":"RESUMO_GERAL_APO_PAA.pdf"
+    },
+    {
+        "tipo":"PROVENTO",
+        "cod_rubrica":"1820",
+        "descricao_rubrica":"SUPL APOSEN TEMPO SERVICO PAA",
+        "valor":407339.17,
+        "competencia":"JULHO\/2025",
+        "tipo_folha":"MANUTENCAO",
+        "arquivo":"RESUMO_GERAL_APO_PAA.pdf"
+    },
+    {
+        "tipo":"PROVENTO",
+        "cod_rubrica":"1860",
+        "descricao_rubrica":"SUPL APOSENT ESPECIAL PAA",
+        "valor":6107.65,
+        "competencia":"JULHO\/2025",
+        "tipo_folha":"MANUTENCAO",
+        "arquivo":"RESUMO_GERAL_APO_PAA.pdf"
+    },
+    {
+        "tipo":"PROVENTO",
+        "cod_rubrica":"9030",
+        "descricao_rubrica":"SUPL\/MANUT\/POSTALIS",
+        "valor":8246.67,
+        "competencia":"JULHO\/2025",
+        "tipo_folha":"MANUTENCAO",
+        "arquivo":"RESUMO_GERAL_APO_PAA.pdf"
+    },
+    {
+        "tipo":"PROVENTO",
+        "cod_rubrica":"9210",
+        "descricao_rubrica":"SUPL APOSEN TEMPO SERV DIF",
+        "valor":8.34,
+        "competencia":"JULHO\/2025",
+        "tipo_folha":"MANUTENCAO",
+        "arquivo":"RESUMO_GERAL_APO_PAA.pdf"
+    },
+    {
+        "tipo":"PROVENTO",
+        "cod_rubrica":"9460",
+        "descricao_rubrica":"PAA\/ECT",
+        "valor":1759.06,
+        "competencia":"JULHO\/2025",
+        "tipo_folha":"MANUTENCAO",
+        "arquivo":"RESUMO_GERAL_APO_PAA.pdf"
+    },
+    {
+        "tipo":"PROVENTO",
+        "cod_rubrica":"9480",
+        "descricao_rubrica":"DEV CONTRIBUICAO ASSISTIDO 15%",
+        "valor":31.83,
+        "competencia":"JULHO\/2025",
+        "tipo_folha":"MANUTENCAO",
+        "arquivo":"RESUMO_GERAL_APO_PAA.pdf"
+    },
+    {
+        "tipo":"DESCONTO",
+        "cod_rubrica":"1061",
+        "descricao_rubrica":"ASSOC. DOS PROFIS. DOS CORREIOS",
+        "valor":37.6,
+        "competencia":"JULHO\/2025",
+        "tipo_folha":"MANUTENCAO",
+        "arquivo":"RESUMO_GERAL_APO_PAA.pdf"
+    },
+    {
+        "tipo":"DESCONTO",
+        "cod_rubrica":"7001",
+        "descricao_rubrica":"CONTRIBUICAO EXTRA ASSISTIDO",
+        "valor":98512.87,
+        "competencia":"JULHO\/2025",
+        "tipo_folha":"MANUTENCAO",
+        "arquivo":"RESUMO_GERAL_APO_PAA.pdf"
+    },
+    {
+        "tipo":"DESCONTO",
+        "cod_rubrica":"9011",
+        "descricao_rubrica":"DIF CONTRIBUICAO ASSISTIDO 15%",
+        "valor":8.55,
+        "competencia":"JULHO\/2025",
+        "tipo_folha":"MANUTENCAO",
+        "arquivo":"RESUMO_GERAL_APO_PAA.pdf"
+    },
+    {
+        "tipo":"DESCONTO",
+        "cod_rubrica":"9091",
+        "descricao_rubrica":"CONTRIBUIÇÃO DE ASSISTIDO",
+        "valor":36600.58,
+        "competencia":"JULHO\/2025",
+        "tipo_folha":"MANUTENCAO",
+        "arquivo":"RESUMO_GERAL_APO_PAA.pdf"
+    },
+    {
+        "tipo":"DESCONTO",
+        "cod_rubrica":"9221",
+        "descricao_rubrica":"IMPOSTO DE RENDA NA FONTE",
+        "valor":3710.93,
+        "competencia":"JULHO\/2025",
+        "tipo_folha":"MANUTENCAO",
+        "arquivo":"RESUMO_GERAL_APO_PAA.pdf"
+    },
+    {
+        "tipo":"DESCONTO",
+        "cod_rubrica":"9231",
+        "descricao_rubrica":"EMPRESTIMO SIMPLES",
+        "valor":4984.76,
+        "competencia":"JULHO\/2025",
+        "tipo_folha":"MANUTENCAO",
+        "arquivo":"RESUMO_GERAL_APO_PAA.pdf"
+    },
+    {
+        "tipo":"DESCONTO",
+        "cod_rubrica":"9271",
+        "descricao_rubrica":"INADIMPLENCIA EMP SIMPLES",
+        "valor":12.71,
+        "competencia":"JULHO\/2025",
+        "tipo_folha":"MANUTENCAO",
+        "arquivo":"RESUMO_GERAL_APO_PAA.pdf"
+    },
+    {
+        "tipo":"DESCONTO",
+        "cod_rubrica":"9401",
+        "descricao_rubrica":"ASS. APOS. DOS CORREIOS",
+        "valor":2370.0,
+        "competencia":"JULHO\/2025",
+        "tipo_folha":"MANUTENCAO",
+        "arquivo":"RESUMO_GERAL_APO_PAA.pdf"
+    },
+    {
+        "tipo":"DESCONTO",
+        "cod_rubrica":"9441",
+        "descricao_rubrica":"PAA\/ECT PAGO A MAIOR",
+        "valor":178.07,
+        "competencia":"JULHO\/2025",
+        "tipo_folha":"MANUTENCAO",
+        "arquivo":"RESUMO_GERAL_APO_PAA.pdf"
+    },
+    {
+        "tipo":"DESCONTO",
+        "cod_rubrica":"9501",
+        "descricao_rubrica":"SEG VIDA - MULTIPLO SALARIAL",
+        "valor":13271.16,
+        "competencia":"JULHO\/2025",
+        "tipo_folha":"MANUTENCAO",
+        "arquivo":"RESUMO_GERAL_APO_PAA.pdf"
+    },
+    {
+        "tipo":"DESCONTO",
+        "cod_rubrica":"9551",
+        "descricao_rubrica":"SUP APOSEN TEMPO SERV PG MAIOR",
+        "valor":293.43,
+        "competencia":"JULHO\/2025",
+        "tipo_folha":"MANUTENCAO",
+        "arquivo":"RESUMO_GERAL_APO_PAA.pdf"
+    },
+    {
+        "tipo":"PROVENTO",
+        "cod_rubrica":"1410",
+        "descricao_rubrica":"SUPL APOSENTADORIA POR IDADE",
+        "valor":59313.91,
+        "competencia":"JULHO\/2025",
+        "tipo_folha":"MANUTENCAO",
+        "arquivo":"RESUMO_GERAL_APO_PBD.pdf"
+    },
+    {
+        "tipo":"PROVENTO",
+        "cod_rubrica":"1420",
+        "descricao_rubrica":"SUPL APOSENT TEMPO SERVICO",
+        "valor":4457576.6399999997,
+        "competencia":"JULHO\/2025",
+        "tipo_folha":"MANUTENCAO",
+        "arquivo":"RESUMO_GERAL_APO_PBD.pdf"
+    },
+    {
+        "tipo":"PROVENTO",
+        "cod_rubrica":"1460",
+        "descricao_rubrica":"SUPL APOSENTADORIA ESPECIAL",
+        "valor":10053.11,
+        "competencia":"JULHO\/2025",
+        "tipo_folha":"MANUTENCAO",
+        "arquivo":"RESUMO_GERAL_APO_PBD.pdf"
+    },
+    {
+        "tipo":"PROVENTO",
+        "cod_rubrica":"1700",
+        "descricao_rubrica":"SUPL APO DECISAO JUDICIAL",
+        "valor":5312.47,
+        "competencia":"JULHO\/2025",
+        "tipo_folha":"MANUTENCAO",
+        "arquivo":"RESUMO_GERAL_APO_PBD.pdf"
+    },
+    {
+        "tipo":"PROVENTO",
+        "cod_rubrica":"2420",
+        "descricao_rubrica":"CORR MONET APO TEMPO SERVICO",
+        "valor":16.9,
+        "competencia":"JULHO\/2025",
+        "tipo_folha":"MANUTENCAO",
+        "arquivo":"RESUMO_GERAL_APO_PBD.pdf"
+    },
+    {
+        "tipo":"PROVENTO",
+        "cod_rubrica":"9700",
+        "descricao_rubrica":"DEV ASSIST MEDICA UNIMED",
+        "valor":988.51,
+        "competencia":"JULHO\/2025",
+        "tipo_folha":"MANUTENCAO",
+        "arquivo":"RESUMO_GERAL_APO_PBD.pdf"
+    },
+    {
+        "tipo":"PROVENTO",
+        "cod_rubrica":"9930",
+        "descricao_rubrica":"VALE ALIMENTAÇÃO\/ AUXÍLIO CESTA",
+        "valor":14193.1,
+        "competencia":"JULHO\/2025",
+        "tipo_folha":"MANUTENCAO",
+        "arquivo":"RESUMO_GERAL_APO_PBD.pdf"
+    },
+    {
+        "tipo":"DESCONTO",
+        "cod_rubrica":"1041",
+        "descricao_rubrica":"IRRF APOSENTADORIA RES. EXTERIOR",
+        "valor":3073.07,
+        "competencia":"JULHO\/2025",
+        "tipo_folha":"MANUTENCAO",
+        "arquivo":"RESUMO_GERAL_APO_PBD.pdf"
+    },
+    {
+        "tipo":"DESCONTO",
+        "cod_rubrica":"1061",
+        "descricao_rubrica":"ASSOC. DOS PROFIS. DOS CORREIOS",
+        "valor":4438.52,
+        "competencia":"JULHO\/2025",
+        "tipo_folha":"MANUTENCAO",
+        "arquivo":"RESUMO_GERAL_APO_PBD.pdf"
+    },
+    {
+        "tipo":"DESCONTO",
+        "cod_rubrica":"7011",
+        "descricao_rubrica":"CORR MONET CONT EXTRA ASSISTIDO",
+        "valor":3.92,
+        "competencia":"JULHO\/2025",
+        "tipo_folha":"MANUTENCAO",
+        "arquivo":"RESUMO_GERAL_APO_PBD.pdf"
+    },
+    {
+        "tipo":"DESCONTO",
+        "cod_rubrica":"8001",
+        "descricao_rubrica":"CONTRIBUICAO EXTRA ASSISTIDO 13 SAL",
+        "valor":18.33,
+        "competencia":"JULHO\/2025",
+        "tipo_folha":"MANUTENCAO",
+        "arquivo":"RESUMO_GERAL_APO_PBD.pdf"
+    },
+    {
+        "tipo":"DESCONTO",
+        "cod_rubrica":"8231",
+        "descricao_rubrica":"BD - BPS-APOSENTADORIA INVALIDEZ - DEV",
+        "valor":223.86,
+        "competencia":"JULHO\/2025",
+        "tipo_folha":"MANUTENCAO",
+        "arquivo":"RESUMO_GERAL_APO_PBD.pdf"
+    },
+    {
+        "tipo":"DESCONTO",
+        "cod_rubrica":"9141",
+        "descricao_rubrica":"CORR MONET CONT ASSISTIDO",
+        "valor":1.47,
+        "competencia":"JULHO\/2025",
+        "tipo_folha":"MANUTENCAO",
+        "arquivo":"RESUMO_GERAL_APO_PBD.pdf"
+    },
+    {
+        "tipo":"DESCONTO",
+        "cod_rubrica":"9201",
+        "descricao_rubrica":"PENSAO ALIMENTICIA",
+        "valor":24154.21,
+        "competencia":"JULHO\/2025",
+        "tipo_folha":"MANUTENCAO",
+        "arquivo":"RESUMO_GERAL_APO_PBD.pdf"
+    },
+    {
+        "tipo":"DESCONTO",
+        "cod_rubrica":"9221",
+        "descricao_rubrica":"IMPOSTO DE RENDA NA FONTE",
+        "valor":269547.81,
+        "competencia":"JULHO\/2025",
+        "tipo_folha":"MANUTENCAO",
+        "arquivo":"RESUMO_GERAL_APO_PBD.pdf"
+    },
+    {
+        "tipo":"DESCONTO",
+        "cod_rubrica":"9271",
+        "descricao_rubrica":"INADIMPLENCIA EMP SIMPLES",
+        "valor":22121.41,
+        "competencia":"JULHO\/2025",
+        "tipo_folha":"MANUTENCAO",
+        "arquivo":"RESUMO_GERAL_APO_PBD.pdf"
+    },
+    {
+        "tipo":"DESCONTO",
+        "cod_rubrica":"9371",
+        "descricao_rubrica":"SUP AUX DOENC PREV PAGO MAIOR",
+        "valor":269.24,
+        "competencia":"JULHO\/2025",
+        "tipo_folha":"MANUTENCAO",
+        "arquivo":"RESUMO_GERAL_APO_PBD.pdf"
+    },
+    {
+        "tipo":"DESCONTO",
+        "cod_rubrica":"9381",
+        "descricao_rubrica":"SUP APOS INVALID PAGA MAIOR",
+        "valor":210.54,
+        "competencia":"JULHO\/2025",
+        "tipo_folha":"MANUTENCAO",
+        "arquivo":"RESUMO_GERAL_APO_PBD.pdf"
+    },
+    {
+        "tipo":"DESCONTO",
+        "cod_rubrica":"9401",
+        "descricao_rubrica":"ASS. APOS. DOS CORREIOS",
+        "valor":3240.0,
+        "competencia":"JULHO\/2025",
+        "tipo_folha":"MANUTENCAO",
+        "arquivo":"RESUMO_GERAL_APO_PBD.pdf"
+    },
+    {
+        "tipo":"DESCONTO",
+        "cod_rubrica":"9501",
+        "descricao_rubrica":"SEG VIDA - MULTIPLO SALARIAL",
+        "valor":133809.43,
+        "competencia":"JULHO\/2025",
+        "tipo_folha":"MANUTENCAO",
+        "arquivo":"RESUMO_GERAL_APO_PBD.pdf"
+    },
+    {
+        "tipo":"DESCONTO",
+        "cod_rubrica":"9504",
+        "descricao_rubrica":"PLANO FUNERAL - MULTIPLO SALARIAL",
+        "valor":42.96,
+        "competencia":"JULHO\/2025",
+        "tipo_folha":"MANUTENCAO",
+        "arquivo":"RESUMO_GERAL_APO_PBD.pdf"
+    },
+    {
+        "tipo":"DESCONTO",
+        "cod_rubrica":"9901",
+        "descricao_rubrica":"PENHORA JUDICIAL",
+        "valor":3372.56,
+        "competencia":"JULHO\/2025",
+        "tipo_folha":"MANUTENCAO",
+        "arquivo":"RESUMO_GERAL_APO_PBD.pdf"
+    }
+]

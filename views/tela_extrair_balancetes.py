@@ -154,14 +154,30 @@ def abrir_tela_comandos():
                 messagebox.showerror("Erro", f"Ocorreu um erro durante a extração do razão:\n{e}")
 
      # Frame Botões
-    frame_botoes = tk.Frame(frame, pady=20)
+    frame_botoes = tk.LabelFrame(frame, pady=20)
     frame_botoes.grid(row=4, column=0)
 
-    btn_exportar = tk.Button(frame_botoes, text="Extrair", width=15, command=lambda: abrir_tela_login(gerar_documentos))
+    #Centralizar botões no Label
+    frame_botoes.grid_columnconfigure(0, weight=1)
+    frame_botoes.grid_columnconfigure(1, weight=1)
+
+    btn_exportar = tk.Button(frame_botoes,
+                             text="Importar", 
+                             width=15, 
+                             command=lambda: abrir_tela_login(gerar_documentos),
+                             #height=2,
+                             activebackground="#54E478", 
+                             activeforeground="white")
     btn_exportar.grid(row=0, column=0, padx=10)
 
-    btn_sair = tk.Button(frame_botoes, text="Sair", width=15, command=janela.destroy)
-    btn_sair.grid(row=0, column=2, padx=10)
+    btn_sair = tk.Button(frame_botoes, 
+                         text="Sair", 
+                         width=15, 
+                         command=janela.destroy,
+                         #height=2,
+                         activebackground="#AD5E62",
+                         activeforeground="white")
+    btn_sair.grid(row=0, column=1, padx=10)
 
     janela.mainloop()
 

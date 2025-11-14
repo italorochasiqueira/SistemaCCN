@@ -103,22 +103,28 @@ def abrir_tela_importar_previdenciario():
         except Exception as e:
             messagebox.showerror("Erro", f"Ocorreu um erro na importação: {e}")
 
+    #Frame dos Botões
+    frame_botoes = tk.LabelFrame(frame_principal, pady=20)
+    frame_botoes.grid(row=3, column=0, pady=5, sticky="ew")
+
+    #Centralizar botões no Label
+    frame_botoes.grid_columnconfigure(0, weight=1)
+    frame_botoes.grid_columnconfigure(1, weight=1)
+
     btn_importar = tk.Button(frame_botoes,
                              text="Importar", 
                              width=15, 
                              command=importar_arquivos,
-                             height=2,
-                            activebackground="#54E478", 
-                            activeforeground="white")
-    btn_importar.grid(row=0, column=0, columnspan=2, padx=10)
+                             activebackground="#54E478", 
+                             activeforeground="white")
+    btn_importar.grid(row=0, column=0, padx=10)
 
     btn_sair = tk.Button(frame_botoes, 
                          text="Sair", 
                          width=15, 
                          command=janela.destroy,
-                         height=2,
                          activebackground="#AD5E62",
                          activeforeground="white")
-    btn_sair.grid(row=0, column=2, columnspan=2, padx=10)
+    btn_sair.grid(row=0, column=1, padx=10)
 
     janela.mainloop()

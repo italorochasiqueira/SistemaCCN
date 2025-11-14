@@ -25,15 +25,23 @@ def abrir_tela_comandos():
 
     # Frame Período (dentro do frame principal)
     frame_periodo = tk.LabelFrame(frame, padx=10, pady=10)
-    frame_periodo.grid(row=1, column=0, pady=(0, 15))
+    frame_periodo.grid(row=1, column=0, pady=(0, 15), sticky='ew')
+
+    # 3 colunas para melhorar centralização
+    frame_periodo.grid_columnconfigure(0, weight=1)
+    frame_periodo.grid_columnconfigure(1, weight=1)
+    frame_periodo.grid_columnconfigure(2, weight=1)
+    frame_periodo.grid_columnconfigure(3, weight=1)
 
     lbl_mes = tk.Label(frame_periodo, text="Mês:")
     lbl_mes.grid(row=0, column=0, sticky="e", padx=5)
+
     entrada_mes = tk.Entry(frame_periodo, width=10)
     entrada_mes.grid(row=0, column=1, padx=5)
 
     lbl_ano = tk.Label(frame_periodo, text="Ano:")
     lbl_ano.grid(row=0, column=2, sticky="e", padx=5)
+
     entrada_ano = tk.Entry(frame_periodo, width=10)
     entrada_ano.grid(row=0, column=3, padx=5)
 
@@ -68,8 +76,8 @@ def abrir_tela_comandos():
 
   
     #Frame para caminho pasta
-    frame_pasta = tk.LabelFrame(frame, text='Caminho do arquivo', bd=2, relief='groove', pady=25)
-    frame_pasta.grid(row=3, column=0)
+    frame_pasta = tk.LabelFrame(frame, text="Selecionar pasta", padx=10, pady=10)
+    frame_pasta.grid(row=3, column=0, pady=5, sticky="ew")
 
     # Carrega e redimensiona a imagem
     imagem_original = Image.open(caminho_relativo("images/pasta.png"))
@@ -89,7 +97,7 @@ def abrir_tela_comandos():
             entrada_pasta.delete(0, tk.END)
             entrada_pasta.insert(0, pasta)
 
-    btn_pasta = tk.Button(frame_pasta, text="...", command=selecionar_pasta)
+    btn_pasta = tk.Button(frame_pasta, text="...", width=5, command=selecionar_pasta)
     btn_pasta.grid(row=0, column=2, padx=10, pady=10)
 
     #Função para  extrair informações para o botão gerar
@@ -154,8 +162,8 @@ def abrir_tela_comandos():
                 messagebox.showerror("Erro", f"Ocorreu um erro durante a extração do razão:\n{e}")
 
      # Frame Botões
-    frame_botoes = tk.LabelFrame(frame, pady=20)
-    frame_botoes.grid(row=4, column=0)
+    frame_botoes = tk.LabelFrame(frame, pady=10)
+    frame_botoes.grid(row=4, column=0, sticky='ew')
 
     #Centralizar botões no Label
     frame_botoes.grid_columnconfigure(0, weight=1)

@@ -1,3 +1,5 @@
 Comando para montar o executável 
 
-pyinstaller --onefile --noconsole main.py --add-data "views;views" --add-data "models;models" --add-data "images;images" --add-data "drivers;drivers" --add-data "docs;docs" --add-data "controls;controls"
+Ao testar em máquina diferente pode dar erro de acesso, então precisa verificar a pasta tk
+
+pyinstaller --onefile --noconsole main.py --add-data "views;views" --add-data "models;models" --add-data "images;images" --add-data "drivers;drivers" --add-data "docs;docs" --add-data "controls;controls" --add-data "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.2544.0_x64__qbz5n2kfra8p0\tcl\tcl8.6;tcl8.6" --add-data "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.2544.0_x64__qbz5n2kfra8p0\tcl\tk8.6;tk8.6"

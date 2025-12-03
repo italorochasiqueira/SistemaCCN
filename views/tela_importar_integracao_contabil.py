@@ -2,9 +2,9 @@ import tkinter as tk
 from tkinter import filedialog, messagebox
 from PIL import Image, ImageTk
 from controls.secoes.caminho_relativo import caminho_relativo
-# from controls.integracao_contabil.importar_integracao_bd import importar_arquivos_integracao_bd
-# from controls.integracao_contabil.importar_integracao_bps import importar_arquivos_integracao_bps
-# from controls.integracao_contabil.importar_integracao_pp import importar_arquivos_integracao_postalprev
+from controls.integracao_contabil.importar_integracao_bd import import_integracao_contabil_bd
+# from controls.integracao_contabil.importar_integracao_bps import 
+from controls.integracao_contabil.importar_integracao_pp import importar_integracao_contabil_pp
 
 
 def abrir_tela_importar_integracao_contabil():
@@ -84,23 +84,23 @@ def abrir_tela_importar_integracao_contabil():
             messagebox.showwarning("Aviso", "Selecione uma pasta de arquivos para importar.")
             return
 
-        # try:
-            # if plano == "BD":
-            #     df = importar_arquivos_integracao_bd(pasta)
-            # elif plano == "BPS":
-            #     df = importar_arquivos_integracao_bps(pasta)
-            # elif plano == "PostalPrev":
-            #     df = importar_arquivos_integracao_postalprev(pasta)
-            # else:
-            #     df = None
+        try:
+            if plano == "BD":
+                df = import_integracao_contabil_bd(pasta)
+            elif plano == "BPS":
+                df = ...
+            elif plano == "PostalPrev":
+                df = importar_integracao_contabil_pp(pasta)
+            else:
+                df = None
 
-            # if df is not None and not df.empty:
-            #     messagebox.showinfo("Sucesso", f"Arquivos do plano {plano} importados da pasta:\n{pasta}")
-            # elif df is not None and df.empty:
-            #     messagebox.showwarning("Aviso", f"Nenhum dado foi encontrado para o plano {plano}.")
+            if df is not None and not df.empty:
+                messagebox.showinfo("Sucesso", f"Arquivos do plano {plano} importados da pasta:\n{pasta}")
+            elif df is not None and df.empty:
+                messagebox.showwarning("Aviso", f"Nenhum dado foi encontrado para o plano {plano}.")
 
-        # except Exception as e:
-        #     messagebox.showerror("Erro", f"Ocorreu um erro na importação: {e}")
+        except Exception as e:
+            messagebox.showerror("Erro", f"Ocorreu um erro na importação: {e}")
 
     #Frame dos Botões
     frame_botoes = tk.LabelFrame(frame_principal, pady=20)
